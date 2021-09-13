@@ -9,7 +9,6 @@ package com.mycompany.footballscore;
  *
  * @author macintoch
  */
-import java.beans.PropertyChangeListener;
 import java.util.Scanner;
 
 public class ScoreBall {
